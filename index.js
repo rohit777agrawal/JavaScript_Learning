@@ -1,6 +1,32 @@
 
+//Temperature convert application
+// let temp;
+// document.getElementById("convert").onclick = function(){
 
+//     if(document.getElementById("celcius").checked){
+//         temp = document.getElementById("inputNumber").value;
+//         temp = Number(temp);
+//         temp = toCelcius(temp);
+//         document.getElementById("temp").innerHTML = temp + "C";
+//     }
+//     else if(document.getElementById("fahrenheit").checked){
+//         temp = document.getElementById("inputNumber").value;
+//         temp = Number(temp);
+//         temp = toFahrenheit(temp);
+//         document.getElementById("temp").innerHTML = temp + "F";
+//     }
+//     else{
+//         document.getElementById("temp").innerHTML = "Select a Unit";
+//     }
+// }
 
+// function toCelcius(temp){
+//     return (temp - 32)*(5/9);
+// }
+
+// function toFahrenheit(temp){
+//     return temp * 9/5 + 32;
+// }
 
 
 
